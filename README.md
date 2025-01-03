@@ -1,0 +1,1 @@
+This is a full-stack MERN CRUD app allows users to make an entry with their name, age, and email. Users can perform CRUD operations, which means they can create, read, update, and delete their entries.
